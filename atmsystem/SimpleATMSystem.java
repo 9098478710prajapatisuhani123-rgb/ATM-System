@@ -38,7 +38,7 @@ public class SimpleATMSystem {
         catch(Exception e){
            System.out.println("Error"+e);
         }
-       // jdbc:oracle:thin:@localhost:1521:XE
+      
 }
 }
     
